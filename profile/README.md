@@ -76,8 +76,8 @@ Kami berfokus pada pengembangan solusi teknologi untuk sektor kesehatan, termasu
 
 ## 📞 Informasi Kontak
 
-- 🌐 Website: [https://dolphinhealthtech.id](https://dolphinhealthtech.id)  
-- 📧 Email: [info@dolphinhealthtech.id](mailto:info@dolphinhealthtech.id)  
+- 🌐 Website: [https://dolphinhealthtech.co.id](https://dolphinhealthtech.co.id)  
+- 📧 Email: [info@dolphinhealthtech.co.id](mailto:info@dolphinhealthtech.co.id)  
 - 📞 Telepon: +62-22-xxxxxxx
 
 ---
